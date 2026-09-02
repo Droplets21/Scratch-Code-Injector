@@ -1,0 +1,40 @@
+{
+  "id": 258094,
+  "SCID": 258094,
+
+  "name": "Force Engine 7",
+  "description": "A physics-based Scratch game built around the Force Engine.",
+  "creator": "Droplets21",
+
+  "artwork": {
+    "cover": "https://example.com/force-engine-7.png",
+    "icon": "https://example.com/force-engine-7-icon.png"
+  },
+
+  "status": {
+    "support": true,
+    "blacklisted": false,
+    "featured": true
+  },
+
+  "version": {
+    "current": "1.0b",
+    "history": [
+      "1.0b",
+      "1.0a"
+    ]
+  },
+
+  "mods": {
+    "count": 2,
+    "all": [
+      923598,
+      729083
+    ]
+  },
+
+  "files": {
+    "current_json": false,
+    "version_json": false
+  }
+}

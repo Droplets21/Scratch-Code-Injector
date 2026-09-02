@@ -1,4 +1,6 @@
 # Scratch Code Injector
+### Current status
+In development!
 ## What is SCI?
 SCI is a tool for patching, and modding Scratch projects. It lets you install, manage, and even create your own mods for any [compatible](#how-are-projects-supported)[^3] Scratch project. Then, whenever you want, SCI will automatically patch and export the project, all from the press of a button. Though it's major use is for modding, it can also be used for editing projects outside of the Scratch editor, collaborating, and more.
 

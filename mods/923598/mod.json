@@ -1,0 +1,55 @@
+{
+  "id": 923598,
+
+  "name": "Super Speed",
+  "description": "Makes the player significantly faster.",
+  "creator": "ExampleCreator",
+
+  "artwork": {
+    "icon": "...",
+    "cover": "..."
+  },
+
+  "version": {
+    "current": "1.2.0",
+    "history": [
+      "1.2.0",
+      "1.1.0",
+      "1.0.0"
+    ]
+  },
+
+  "target": {
+    "projects": [
+      258094
+    ],
+    "versions": [
+      ">=1.0a <2.0.0"
+    ]
+  },
+
+  "files": {
+    "current": "main.sci",
+    "versions": {
+      "1.2.0": "...",
+      "1.1.0": "...",
+      "1.0.0": "..."
+    }
+  },
+
+  "dependencies": {
+    "required": [],
+    "optional": []
+  },
+
+  "compatibility": {
+    "SCI": ">=1.0.0",
+    "language": "SCI"
+  },
+
+  "tags": [
+    "gameplay",
+    "player",
+    "movement"
+  ]
+}
